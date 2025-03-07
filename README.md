@@ -45,6 +45,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" titel="Arduino" alt="Arduino" width="40" height = "40" />
 
 ### :fire: My Stats :
+![titan-spyer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=titan-spyer&theme=midnight-purple&hide_border=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=titan-spyer&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![titan-spyer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=titan-spyer&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 </br>
 Keep coding! :rocket:
